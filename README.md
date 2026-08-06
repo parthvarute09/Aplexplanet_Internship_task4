@@ -48,9 +48,6 @@ Task-4-Data-Storytelling/
 ├── Presentation/
 │   └── Business_Insights_Presentation.pptx
 │
-├── Notebook/
-│   └── Task4_Data_Storytelling.ipynb
-│
 ├── Images/
 │   ├── charts/
 │   └── dashboard/
