@@ -48,15 +48,10 @@ Task-4-Data-Storytelling/
 ├── Presentation/
 │   └── Business_Insights_Presentation.pptx
 │
-├── Images/
-│   ├── charts/
-│   └── dashboard/
-│
 ├── Report/
 │   └── Hypothesis_Testing_Report.pdf
 │
 ├── README.md
-└── requirements.txt
 ```
 
 ---
