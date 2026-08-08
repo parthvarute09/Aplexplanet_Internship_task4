@@ -16,11 +16,8 @@ Aplexplanet_Internship_task4/
 ├── presentations/
 │   └── Sales_Story.pptx
 │
-├── scripts/
-│   └── hypothesis_testing.py
-│
 ├── docs/
-│   └── hypothesis_testing_summary.md
+│   └── hypothesis_testing_summary.pdf
 │
 └── README.md
 ```
