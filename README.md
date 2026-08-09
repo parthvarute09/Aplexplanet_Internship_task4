@@ -14,10 +14,10 @@ The objective of this task was to convert analytical findings into a clear busin
 Aplexplanet_Internship_task4/
 │
 ├── presentations/
-│   └── Sales_Story.pptx
+│   └── Sales_Performance_Deep_Dive.pptx
 │
 ├── docs/
-│   └── hypothesis_testing_summary.pdf
+│   └── hypothesis_testing_summary.docx
 │
 └── README.md
 ```
